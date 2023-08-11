@@ -1,5 +1,4 @@
 # Validate Graphs
-Project for CS211 at Northwestern University
 
 ## Description
 The program here was written for the purpose of honing good testing practices. There are 2 parts to the program:
